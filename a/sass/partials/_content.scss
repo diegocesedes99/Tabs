@@ -1,0 +1,32 @@
+.content1{
+    width: 914px;padding: 60px 0px;
+    position: relative;
+}
+.content1 img{
+    position: absolute;
+    right: 5px;
+    top: 0;
+}
+.tabs {
+    margin: 0 auto;
+    width: 711px;
+}
+.tabs-lista {
+    list-style: none;
+    margin-bottom: -1px;
+    padding-left: 0;
+}
+.tabs-menu {
+    float: left;
+    padding: 10px 35px;
+    color: $color-naranja;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #ffca9f;
+}
+.div-tabs {
+    padding: 20px;
+    color: $color-blanco;
+    margin-bottom: 149px;
+    background-color: $color-naranja;
+}
